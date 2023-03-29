@@ -6,4 +6,5 @@
 - The names, images, prices and descriptions are shown for each dish
 - The dishes could be flitered with categories by clicking the category buttons on the top
 
+### A capture of the web
 <img src ="overview.png" width = 50% height = 50%>
