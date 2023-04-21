@@ -27,7 +27,7 @@ function App() {
     setDishes(newItems);
   };
   
-  console.log(setCategory);
+  console.log(setCategories);
 
   return (
     <main>
