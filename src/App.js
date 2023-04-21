@@ -26,6 +26,8 @@ function App() {
     const newItems = items.filter((item) => item.category === selectCategory);
     setDishes(newItems);
   };
+  
+  console.log(setCategory);
 
   return (
     <main>
